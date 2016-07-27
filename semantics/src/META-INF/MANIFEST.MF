@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 11.0-b15 (Sun Microsystems Inc.)
+Main-Class: documentclassifier.DocumentClassifierApp
+Class-Path: lib/beansbinding-1.2.1.jar lib/appframework-1.0.3.jar lib/
+ swing-worker-1.1.jar lib/swing-layout-1.0.3.jar lib/java-cup-11a.jar 
+ lib/snowball.jar
+X-COMMENT: Main-Class will be added automatically by build
+
